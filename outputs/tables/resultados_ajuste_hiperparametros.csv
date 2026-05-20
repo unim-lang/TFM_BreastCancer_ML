@@ -1,0 +1,5 @@
+modelo,best_score_cv_roc_auc,best_params
+SVM,0.9943,"{'model__C': 10, 'model__gamma': 0.01, 'model__kernel': 'rbf'}"
+Logistic Regression,0.9935,"{'model__C': 0.1, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}"
+Gradient Boosting,0.9918,"{'model__learning_rate': 0.1, 'model__max_depth': 3, 'model__n_estimators': 200, 'model__subsample': 1.0}"
+Random Forest,0.9899,"{'model__max_depth': 5, 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 100}"

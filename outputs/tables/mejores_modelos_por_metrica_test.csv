@@ -1,0 +1,7 @@
+metrica,mejor_modelo,valor
+accuracy,Logistic Regression,1.0
+precision,Logistic Regression,1.0
+recall_sensibilidad,Logistic Regression,1.0
+specificity,Logistic Regression,1.0
+f1,Logistic Regression,1.0
+roc_auc,Logistic Regression,1.0
