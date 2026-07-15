@@ -8,6 +8,8 @@
 
 **Título del TFM:** Datos Contra el Cáncer: Comparativa de Modelos Predictivos para la Clasificación de Tumores Mamarios
 
+**Fecha:** 15 de Julio de 2026
+
 ## Descripción
 
 Proyecto de análisis comparativo de modelos predictivos para la clasificación de tumores mamarios a partir del conjunto de datos **Breast Cancer Wisconsin Diagnostic**.
